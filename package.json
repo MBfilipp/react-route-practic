@@ -2,7 +2,7 @@
   "name": "react-navlink",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://react-router-practic.github.io/react-router-practic",
+  "homepage": "https://mbfilipp-react-route.github.io/react-route-practic",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
